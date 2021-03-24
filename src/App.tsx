@@ -84,7 +84,7 @@ const App = () => {
           </div>
         </ReactMapGL>
       ) : (
-        <h1>Loading...</h1>
+        <h1>Memuat.....</h1>
       )}
     
     </div>
