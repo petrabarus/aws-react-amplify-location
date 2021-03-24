@@ -1,23 +1,26 @@
 {
-    "dev": {
-        "awscloudformation": {
-            "AuthRoleName": "amplify-awsreactamplifylocat-dev-84429-authRole",
-            "UnauthRoleArn": "arn:aws:iam::826633611828:role/amplify-awsreactamplifylocat-dev-84429-unauthRole",
-            "AuthRoleArn": "arn:aws:iam::826633611828:role/amplify-awsreactamplifylocat-dev-84429-authRole",
-            "Region": "us-east-1",
-            "DeploymentBucketName": "amplify-awsreactamplifylocat-dev-84429-deployment",
-            "UnauthRoleName": "amplify-awsreactamplifylocat-dev-84429-unauthRole",
-            "StackName": "amplify-awsreactamplifylocat-dev-84429",
-            "StackId": "arn:aws:cloudformation:us-east-1:826633611828:stack/amplify-awsreactamplifylocat-dev-84429/265c35b0-8c7d-11eb-8d54-0ac2c503da11",
-            "AmplifyAppId": "d27ytjaxrgt13v"
-        },
-        "categories": {
-            "hosting": {
-                "amplifyhosting": {
-                    "appId": "d27ytjaxrgt13v",
-                    "type": "cicd"
-                }
-            }
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-awsreactamplifylocat-dev-84429-authRole",
+      "UnauthRoleArn": "arn:aws:iam::826633611828:role/amplify-awsreactamplifylocat-dev-84429-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::826633611828:role/amplify-awsreactamplifylocat-dev-84429-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-awsreactamplifylocat-dev-84429-deployment",
+      "UnauthRoleName": "amplify-awsreactamplifylocat-dev-84429-unauthRole",
+      "StackName": "amplify-awsreactamplifylocat-dev-84429",
+      "StackId": "arn:aws:cloudformation:us-east-1:826633611828:stack/amplify-awsreactamplifylocat-dev-84429/265c35b0-8c7d-11eb-8d54-0ac2c503da11",
+      "AmplifyAppId": "d27ytjaxrgt13v"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d27ytjaxrgt13v",
+          "type": "cicd"
         }
+      },
+      "auth": {
+        "awsreactamplifylocate6b3e442": {}
+      }
     }
+  }
 }
